@@ -68,17 +68,13 @@ namespace Homework_3
                 do
                 {
                     exceptionCatched = false;
-                    try
-                    {
-                        result = int.Parse(Console.ReadLine());
-                    }
-                    catch (Exception ex)
+
+                    if (!int.TryParse(Console.ReadLine(), out result))
                     {
                         exceptionCatched = true;
-                        string message = ex.Message;
-                        Console.WriteLine(message +
-                                          "Неверный ввод (требуется числовое значение)\nПожалуйста, повторите ввод:");
+                        Console.WriteLine("Неверный ввод (требуется числовое значение)\nПожалуйста, повторите ввод:");
                     }
+
                 } while (exceptionCatched);
 
                 return result;
