@@ -1,0 +1,6 @@
+D:\GeekBrains\Homework_3\Homework_3\bin\Debug\Homework_3.exe
+D:\GeekBrains\Homework_3\Homework_3\bin\Debug\Homework_3.pdb
+D:\GeekBrains\Homework_3\Homework_3\obj\Debug\Homework_3.csprojAssemblyReference.cache
+D:\GeekBrains\Homework_3\Homework_3\obj\Debug\Homework_3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Homework_3\Homework_3\obj\Debug\Homework_3.exe
+D:\GeekBrains\Homework_3\Homework_3\obj\Debug\Homework_3.pdb
